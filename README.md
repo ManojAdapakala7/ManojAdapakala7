@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach me at : manoj.adapakala7@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Oo
 
 <!---
 ManojAdapakala7/ManojAdapakala7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
